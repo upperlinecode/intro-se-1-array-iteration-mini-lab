@@ -5,7 +5,7 @@ favorite_foods = ["Sushi", "Pizza", "Salmon", "Tamales dulces", "Yuca fries", "A
 
 # 2. Now for each food in that list, let's be specific about how MUCH Alex likes them.
 # For example, print out "Alex's #1 favorite food is Sushi" and then "Alex's #2 favorite food is Pizza" and so on until you've made an ordered list.
-# This can be done a number of different ways, but the easiest is probably the ruby each_with_index method. Consider finding that in the documentation.
+# This can be done a number of different ways, but the easiest is probably the ruby `.each_with_index` method. Consider finding that in the documentation.
 
 
 
@@ -23,4 +23,4 @@ many_names = ["Alexa","Burke","Kasimir","Baxter","Carissa","Vielka","Derek","Jem
 
 
 
-# 5. Take that same array array and sort them into two lists: one list of long names, which have more than 6 characters, and one list of short names which have 6 or fewer characters. Then print out both lists.
+# 5. Take that same array and sort them into two lists: one list of long names, which have more than 6 characters, and one list of short names which have 6 or fewer characters. Then print out both lists.
